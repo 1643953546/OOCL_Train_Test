@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 commit 11local
-=======
-commit 11remote
->>>>>>> 35252d848eaf5f24609c18229d68bc3f97af191a
+
 
